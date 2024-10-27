@@ -2,7 +2,8 @@ README.md
 data.txt
 proxy.txt
 env/
-session/
+venv/
+sessions/
 bot/__pycache__/
 bot/utils/__pycache__/
 bot/utils/notpixel/__pycache__/
@@ -10,3 +11,4 @@ bot/utils/seed/__pycache__/
 bot/core/__pycache__/
 bot/config/__pycache__/
 bot/exceptions/__pycache__/
+pyarmor_runtime_004829/__pycache__/
