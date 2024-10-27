@@ -1,0 +1,15 @@
+1. Xem hướng dẫn cài tool python tại: https://t.me/thic_autu/8
+
+2. Tool chỉ chạy trên bản python 3.11.5 những máy đã cài đúng bản python không cần cài lại, nếu máy đã cài python bản khác vui lòng gỡ ra và  cài python 3.11.5 theo link: https://www.python.org/ftp/python/3.11.5/python-3.11.5-amd64.exe
+-    Khi cài đặt python nhớ tick chọn "add python.exe to PATH"
+
+3. Lưu ý sử dung git clone để tải code về giống video hướng dẫn để không bị lỗi khi chạy file thực thi run.bat (nếu download file có thể bị chạy file run mà nó không hiện lên)
+
+4. Tạo file data.txt để chứa danh sách ID profile GPM và proxy.txt để chứa proxy (để tối ưu nên sắp xếp proxy trùng với id GPM). Lưu ý không để khoảng trắng ở cuối file data hay proxy. Mẫu format xem trong proxy-example.txt
+
+5. Copy thư mục "env-example" thành thư mục mới và đổi tên thành "env"
+-   Trong này chứa file cấu hình của tất cả các game trong tool.
+
+6. Chạy file run.bat và chờ 3-10 phút tùy tốc độ mạng. khi cài đặt xong sẽ hiện key, vui lòng copy key và liên hệ tele: @nora24320 để active
+
+7. Hướng dẫn cập nhật tool lên bản mới nhất: https://t.me/thic_autu/21
