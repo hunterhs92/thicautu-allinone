@@ -8,7 +8,6 @@
 4. Tạo file data.txt để chứa danh sách ID profile GPM và proxy.txt để chứa proxy (để tối ưu nên sắp xếp proxy trùng với id GPM). Lưu ý không để khoảng trắng ở cuối file data hay proxy. Mẫu format xem trong proxy-example.txt
 
 5. Copy thư mục "env-example" thành thư mục mới và đổi tên thành "env"
--   Trong này chứa file cấu hình của tất cả các game trong tool.
 
 6. Chạy file run.bat và chờ 3-10 phút tùy tốc độ mạng. khi cài đặt xong sẽ hiện key, vui lòng copy key và liên hệ tele: @nora24320 để active
 

@@ -23,6 +23,18 @@ if not exist venv\Lib\site-packages\installed (
         echo Dependencies đã được cài đặt, bỏ qua việc cài đặt.
     )
 
+if not exist env (
+    xcopy "env-example" "env" /E /I
+)
+
+if not exist data.txt (
+    copy "data-example.txt" "data.txt"
+)
+
+if not exist proxy.txt (
+    copy "proxy-example.txt" "proxy.txt"
+)
+
 :loop
 python main.py
 echo Đang khởi động lại chương trình sau 30 giây...
