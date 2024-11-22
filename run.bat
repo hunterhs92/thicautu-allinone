@@ -28,11 +28,13 @@ if not exist env (
 )
 
 if not exist data.txt (
-    copy "data-example.txt" "data.txt"
+    echo Đang tạo file data.txt...
+    echo. > data.txt
 )
 
 if not exist proxy.txt (
-    copy "proxy-example.txt" "proxy.txt"
+    echo Đang tạo file proxy.txt...
+    echo. > proxy.txt
 )
 
 :loop
